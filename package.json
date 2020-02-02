@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "githubpage": "ng build --prod --outputPath=docs"
+    "githubpage": "ng build --prod --outputPath=docs --base-href=alireza-majma.github.io/ng-content-projection/"
   },
   "private": true,
   "dependencies": {
